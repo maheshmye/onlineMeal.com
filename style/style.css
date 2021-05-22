@@ -1,0 +1,211 @@
+.name{
+    font-size: 80px;
+    text-align: center;
+    padding: 130px;
+    padding-bottom: 0px;
+    color:white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.description-tag{
+    font-size: large;
+    color: white;
+    text-align: center;
+}
+.loaction-box{
+    margin-left: 400px;
+    margin-right: 300px;
+    margin-bottom: 100px;
+    margin-top: 50px;
+    text-align: center;
+    background-color: white;
+    border-radius: 5px;
+    height: 40px;
+    width:710px;
+    padding: 5px;
+    padding-left: 0px;
+    padding-right: 0px;
+    
+}
+#city{
+    width: 300px;
+    height: 30px;
+    border: 0px solid white;
+    
+
+}
+.main-div{
+    height:550px;
+    margin-bottom: 30px;
+}
+.textplace{
+    border: 0px solid white;
+    width: 400px;
+    border-radius: 8px;
+}
+
+.details1{
+    width: 331px;
+    height: 350px;
+    border: 1px solid black;
+    color: rgb(189, 173, 173);
+    border-radius: 10px;
+    text-align: center;
+    /* margin: 40px; */
+    margin-left: 250px;
+    margin-top: 40px;
+    border-color: rgb(233, 202, 202);
+    float: left;
+}
+.details2{
+    width: 331px;
+    height: 350px;
+    border: 1px solid black;
+    color: rgb(189, 173, 173);
+    border-radius: 10px;
+    text-align: center;
+    /* margin: 40px; */
+    margin-left: 50px;
+    margin-top: 40px;
+    border-color: rgb(233, 202, 202);
+    float: left;
+}
+.details3{
+    width: 331px;
+    height: 350px;
+    border: 1px solid black;
+    color: rgb(189, 173, 173);
+    border-radius: 10px;
+    text-align: center;
+    /* margin: 40px; */
+    margin-left: 50px;
+    margin-top: 40px;
+    border-color: rgb(233, 202, 202);
+    float: left;
+}
+
+
+.img-descrption1{
+    border-radius: 10px;
+    border-color: white;
+    margin-bottom: 45px;
+}
+.img-descrption2{
+    width: 331px;
+    height: 200px;
+    border-radius: 10px;
+    margin-bottom: 30px;
+}
+.appdetails{
+    width: 225px;
+    height: 225px;
+    text-align: center;
+    margin-left:265px;
+    border-color: rgb(233, 202, 202);
+    float: left;
+}
+.imgapp{
+    
+    margin-top: 50px;
+    width: 225px;
+    height: 225px;   
+    border-radius: 10px;
+    margin-bottom: 10px;
+}
+.orderonline{
+    background-color: white;
+    color: rgb(189, 173, 173);
+}
+.appdetails2{
+    width: 225px;
+    height: 225px;
+    text-align: center;
+    margin-left:55px;
+    border-color: rgb(233, 202, 202);
+    float: left;
+}
+.install{
+    width: 250px;
+    margin-top: 400px;
+    margin-left: 150px;
+    padding-top: 430px;
+    /* float: left; */
+}
+.instal-descrption{
+    padding-top: 20px;
+    margin-left: 145px;
+    width: 500px;
+    color: rgb(189, 173, 173);
+}
+.buttons{
+    
+    margin-left: 140px;
+}
+.button{
+    background: black;
+    width: 180px;
+    height: 60px;
+    margin: 10px;
+}
+.div-install{
+    margin-left: 150px;
+    width: 700px;
+}
+.install-img{
+    width: 500px;
+}
+
+.row{
+    padding-top: 220;
+    padding-left: 120px;
+}
+.company-desc{
+    padding-top: 25px;
+    color: rgb(218, 207, 207);
+}
+
+.orderphone{
+    margin-left: 250px;
+}
+
+.orderimg{
+    border-radius: 50px;
+}
+.black{
+    background-color: black;
+    margin-top: 10px;
+    margin-right: 15px;
+    height: 60px;
+    width: 180px;
+}
+
+.end{background-color: black;
+    padding: 20px;
+    padding-left: 150px;
+    font-size: 45px;
+    color: white;
+    
+}
+.company{
+    background-color: black;
+    padding-left:150px;
+    padding-bottom: 5px;
+    width: 300px;
+    height: 250px;
+    float: left;
+    color:white
+}
+.button-space{
+    height: 8px;
+}
+.fillin-space{
+    background-color: black;
+    height: 250px;
+}
+.end-desc{
+    height: auto;
+    background-color: black;
+}
+.copyright{
+    text-align: center;
+}
+
